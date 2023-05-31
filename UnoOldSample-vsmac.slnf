@@ -1,0 +1,16 @@
+{
+  "solution": {
+    "path": "UnoOldSample.sln",
+    "projects": [
+		"UnoOldSample\\UnoOldSample.csproj",
+
+		"UnoOldSample.Mobile\\UnoOldSample.Mobile.csproj",
+
+		"UnoOldSample.Wasm\\UnoOldSample.Wasm.csproj",
+
+		"UnoOldSample.Skia.Gtk\\UnoOldSample.Skia.Gtk.csproj",
+
+		"UnoOldSample.Skia.Gtk\\UnoOldSample.Skia.Gtk.csproj",
+    ]
+  }
+}
